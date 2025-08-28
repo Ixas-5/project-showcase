@@ -11,7 +11,7 @@ export const projects = [
       es: "Esto es un website dedicado a ayudar agricultores Puertorriqueños vender sus productos localmente.",
     },
     image: "",
-    liveSite: "https://consumo-inteligente.vercel.app/",
+    liveSite: "https://ixas-5.github.io/Consumo-Inteligente/",
     githubRepo: "https://github.com/Ixas-5/Consumo-Inteligente",
   },
   // Add more projects here...
